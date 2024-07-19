@@ -1,0 +1,7 @@
+python-pptx
+Pillow
+numpy
+scikit-learn
+nltk
+torch
+torchvision
